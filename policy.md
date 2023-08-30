@@ -1,3 +1,4 @@
+
 This is an application developed by Jason Dubon.
 
 The app has been programmed to not collect any personally information. All data (app preferences (like theme, etc.) and alarms) created by the you is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
